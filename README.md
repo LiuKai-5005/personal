@@ -5,7 +5,7 @@ Born in a small countryside in Henan province, China. From the bachelor to the P
 ## About my current work
 Upon earned my Ph.D in 2018, I am luckily offered an electrical engineer (system engineer) postion in a world-wide big company.
 ## About my future plan
-It is always fun to have more incoming challenges. <\br> 
+It is always fun to have more incoming challenges. <br> 
 It is never too old to learn. So I started to learn some coding and programing during my spare time.
 
 ## About aimed target
